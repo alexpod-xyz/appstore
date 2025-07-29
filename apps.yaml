@@ -1,0 +1,8 @@
+apps:
+  - id: pertracker
+    name: "PerTracker"
+    category: "Health and Fitness"
+    description: "Advanced Period Tracker to Track all periods efficiently."
+    icon: "icons/pertracker.png"
+    url: "https://pertracker.xyz"
+    version: "100.0.0"
